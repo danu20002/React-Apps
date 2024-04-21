@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/React-Apps/static/css/main.a53a4286.css",
-    "main.js": "/React-Apps/static/js/main.cb1bbd1e.js",
-    "static/js/453.7bc7b40f.chunk.js": "/React-Apps/static/js/453.7bc7b40f.chunk.js",
-    "static/media/error_page.jpeg": "/React-Apps/static/media/error_page.daee85dc8f9df89c7bd0.jpeg",
-    "index.html": "/React-Apps/index.html",
-    "main.a53a4286.css.map": "/React-Apps/static/css/main.a53a4286.css.map",
-    "main.cb1bbd1e.js.map": "/React-Apps/static/js/main.cb1bbd1e.js.map",
-    "453.7bc7b40f.chunk.js.map": "/React-Apps/static/js/453.7bc7b40f.chunk.js.map"
+    "main.css": "/static/css/main.a53a4286.css",
+    "main.js": "/static/js/main.de4c3cf4.js",
+    "static/js/453.7bc7b40f.chunk.js": "/static/js/453.7bc7b40f.chunk.js",
+    "static/media/error_page.jpeg": "/static/media/error_page.daee85dc8f9df89c7bd0.jpeg",
+    "index.html": "/index.html",
+    "main.a53a4286.css.map": "/static/css/main.a53a4286.css.map",
+    "main.de4c3cf4.js.map": "/static/js/main.de4c3cf4.js.map",
+    "453.7bc7b40f.chunk.js.map": "/static/js/453.7bc7b40f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a53a4286.css",
-    "static/js/main.cb1bbd1e.js"
+    "static/js/main.de4c3cf4.js"
   ]
 }
