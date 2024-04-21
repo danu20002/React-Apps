@@ -1,0 +1,54 @@
+.weatherpage{
+   
+    padding: 10px 0px;
+    display: flex;
+}
+form{
+    width: 100%;
+   
+    display: flex;
+}
+.weatherpage form input{
+    padding: 10px 20px;
+    margin-right: 10px;
+    flex-basis: 70%;
+    border-radius: 10px;
+    border-color: chocolate;
+    border-width: 2px;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+.weatherpage form button{
+    padding: 10px 10px;
+    background-color: darkblue;
+    color: white;
+    flex-basis: 30%;
+    border-radius: 10px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+form input::placeholder{
+    padding-left: 5px;
+}
+.contentHolder{
+width: 400px;
+height: fit-content;
+background-color: white;
+color: black;
+padding: 10px 10px;
+border-radius: 10px;
+position: relative;
+
+}
+.imgload{
+    position: absolute;
+    left: 40%;
+    width: 100px;
+
+}
+.imgload.hidden {
+    display: none;
+  }
+
+

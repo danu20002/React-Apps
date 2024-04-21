@@ -1,0 +1,46 @@
+nav ul{
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin: 0;
+    padding: 0px;
+   
+}
+h1{
+    text-align: center;
+}
+nav{
+    width: 100%;
+}
+.container{
+    width: 1320px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid red;
+}
+.blogItems{
+    
+    flex-basis: 23%;
+    
+    margin: 1%;
+    box-shadow: 0px 0px 10px 2px #ccc;
+    padding: 10px;
+
+}
+.blogItems h3{
+    text-align: center;
+    background: cornflowerblue;
+    color: white;
+
+}
+.blogItems p{
+    text-align: start;
+    color: white;
+}
+.navclass{
+    background-color: cadetblue;
+    padding: 20px;
+    width: 100%;
+}
